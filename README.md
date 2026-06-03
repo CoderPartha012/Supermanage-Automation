@@ -1,4 +1,4 @@
-### Project Workflow for Automation Testing
+### Project Workflow for Automation: 
 
 This project automates various functionalities of the SuperManage platform using Selenium WebDriver and TestNG. The primary goal is to ensure that different aspects of the platform, such as user login, employee management, and attendance tracking, function correctly and efficiently.
 
